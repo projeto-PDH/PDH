@@ -1,0 +1,69 @@
+.corpo{
+	background-color:#418C50 ;
+}
+
+#corpo{
+	background: #44724E;
+	line-height: 30px;
+
+}
+
+
+
+input{
+color:#003925;
+}
+
+#mensagemErro{
+	display: none;
+	color: #551800;
+}
+#formulario{
+	width:80%;
+}
+#msgErro{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroSenha{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroEmail{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroEmail{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroCurso{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroEstado{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroInteresse{
+	display: none;
+	margin-top: 20px;
+}
+#titulo{
+	text-align: center;
+	margin: 10px;
+	font-family: 'Caveat';
+}
+.cadastro{
+	width: 80%;
+	border-radius: 15px;
+	border: 2px solid white;
+	padding: 20px;
+	background-color: #C2E8C3;
+	position: relative;
+	text-align: left;
+	left: 9%;
+}
+#a { 
+  color: inherit; 
+} 

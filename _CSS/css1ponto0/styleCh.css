@@ -1,0 +1,36 @@
+.corpo{
+	background-color:#418C50 ;
+}
+#titulo{
+	text-align: center;
+	font-family: 'Dancing Script';
+	font-size: 70px;
+}
+
+#jogo{
+	text-align: center;
+}
+
+
+#c{
+	height: 200px;
+	width: 175px;
+	position: relative;
+	left: 20%;
+}
+.cardtext{
+	text-align: center;
+}
+.cardtitle{
+	text-align: center;
+}
+.t1{
+	text-align: center;
+}
+
+body{
+	background: #C2E8C3;
+}
+#Ch{
+	font-family: 'Caveat';
+}

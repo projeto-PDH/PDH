@@ -1,0 +1,242 @@
+.corpo{
+	background-color:#418C50 ;
+}
+#titulo{
+	text-align: center;
+	font-family: 'Dancing Script';
+	font-size: 80px;
+}
+#subiTitulo{
+	text-align: center;
+	font-family: 'Dancing Script';
+	font-size: 50px;
+}
+#cen{
+	text-align: center;
+	position: absolute;
+	left: 47%;
+}
+#jogo{
+	text-align: center;
+}
+#descricao{
+	margin: 20px;
+}
+.bandeirante{
+	height: 200px;
+	width: 95px;
+	margin-left: 47%;
+}
+.bandeiranteF{
+	height: 128px;
+	width: 128px;
+	margin-left: 45%;
+}
+#t{
+	text-align: center;
+}
+#t1{
+	font-family: 'Caveat';
+	font-size: 30px;
+	margin: 5%;
+}
+#j1{
+	text-align: center;
+}
+#j2{
+	position: absolute;
+	left: 46%;
+}
+
+
+
+
+
+
+
+
+
+.cardtitle{
+	text-align: center;
+}
+#pao{
+	height: 230px;
+	width: 230px;
+}
+#william{
+	height: 230px;
+	width: 230px;
+}
+#carne{
+	height: 230px;
+	width: 230px;
+}
+.card-body{
+	background-color: #D1E8C9;
+	
+}
+.card{
+	position: relative;
+	left: 20%;
+}
+#cav{
+
+	font-family: 'Caveat';
+}
+
+
+
+
+
+
+
+
+
+#c{
+	height: 200px;
+	width: 175px;
+	position: relative;
+	left: 20%;
+}
+.cardtext{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input{
+color:#003925;
+}
+
+#mensagemErro{
+	display: none;
+	color: #551800;
+}
+#formulario{
+	width:80%;
+}
+#msgErro{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroSenha{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroEmail{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroEmail{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroCurso{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroEstado{
+	display: none;
+	margin-top: 20px;
+}
+#msgErroInteresse{
+	display: none;
+	margin-top: 20px;
+}
+.cadastro{
+	width: 80%;
+	border-radius: 15px;
+	border: 2px solid black;
+	padding: 20px;
+	background-color: #C2E8C3;
+	position: relative;
+	text-align: left;
+	left: 9%;
+}
+#a { 
+  color: inherit; 
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background: #0E2613;
+  background-color:#C2E8C3;
+
+}
+.container{
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.data{
+  text-align: center;
+  
+  color: #fff;
+  font-family: poppins;
+  font-size: 2em;
+  letter-spacing: 12px;
+  font-weight: 600;
+/*   position: absolute; */
+/*   top: 50%; */
+/*   left: 50%; */
+/*   transform: translate(-50%, -50%); */
+}
+.quote{
+  text-align: center;
+  color: #fff;
+  font-family: ubuntu, poppins;
+  font-size: em;
+  letter-spacing: 12px;
+  font-weight: 600;
+/*   position: fixed; */
+/*   top: 50%; */
+/*   left: 50%; */
+/*   transform: translate(-50%, -50%); */
+}
+h3{
+  color: white;
+  font-family: poppins;
+  text-align: center;
+ 
+}
+#iniciar{
+ 
+  margin-top: 30px;
+  display: none;
+}
+a { 
+  color: inherit; 
+} 

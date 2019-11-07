@@ -1,0 +1,41 @@
+.corpo{
+	background-color:#418C50 ;
+}
+#titulo{
+	text-align: center;
+	font-family: 'Dancing Script';
+	font-size: 80px;
+}
+#jogo{
+	text-align: center;
+}
+body{
+	background-color:#C2E8C3 ;
+}
+.cardtitle{
+	text-align: center;
+}
+#pao{
+	height: 230px;
+	width: 230px;
+}
+#william{
+	height: 230px;
+	width: 230px;
+}
+#carne{
+	height: 230px;
+	width: 230px;
+}
+.card-body{
+	background-color: #D1E8C9;
+	
+}
+.card{
+	position: relative;
+	left: 20%;
+}
+#Co{
+
+	font-family: 'Caveat';
+}

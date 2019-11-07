@@ -1,0 +1,43 @@
+.corpo{
+	background-color:#418C50 ;
+}
+#titulo{
+	text-align: center;
+	font-family: 'Dancing Script';
+	font-size: 80px;
+}
+#jogo{
+	text-align: center;
+}
+body{
+	background-color:#C2E8C3 ;
+}
+#descricao{
+	margin: 20px;
+}
+.bandeirante{
+	height: 200px;
+	width: 95px;
+	margin-left: 47%;
+}
+.bandeiranteF{
+	height: 128px;
+	width: 128px;
+	margin-left: 45%;
+}
+#t{
+	text-align: center;
+}
+#t1{
+	text-align: center;
+	font-family: 'Caveat';
+	font-size: 40px;
+	margin: 5%;
+}
+#j1{
+	text-align: center;
+}
+#j2{
+	position: absolute;
+	left: 46%;
+}

@@ -1,0 +1,58 @@
+.corpo{
+  background-color:#418C50 ;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background: #0E2613;
+
+}
+.container{
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.data{
+  text-align: center;
+  
+  color: #fff;
+  font-family: poppins;
+  font-size: 2em;
+  letter-spacing: 12px;
+  font-weight: 600;
+/*   position: absolute; */
+/*   top: 50%; */
+/*   left: 50%; */
+/*   transform: translate(-50%, -50%); */
+}
+.quote{
+  text-align: center;
+  color: #fff;
+  font-family: ubuntu, poppins;
+  font-size: em;
+  letter-spacing: 12px;
+  font-weight: 600;
+/*   position: fixed; */
+/*   top: 50%; */
+/*   left: 50%; */
+/*   transform: translate(-50%, -50%); */
+}
+h3{
+  color: white;
+  font-family: poppins;
+  text-align: center;
+ 
+}
+#iniciar{
+ 
+  margin-top: 30px;
+  display: none;
+}
+a { 
+  color: inherit; 
+} 
